@@ -1,0 +1,24 @@
+header {
+  background-color: blue
+  color:rgba(255,255,255,0.5);
+}
+.container {
+  background-color: blue 
+  color: #ffffff; 
+  color: #0000A0
+}
+
+#rebar {
+  color:salmon;
+  margin-top: 1000px
+}
+
+.square{
+width: 50px;
+height:50px;
+background-color: salmon;
+margin:5px;
+border:2px solid #000;
+padding: 20px;
+float:middle;
+}
